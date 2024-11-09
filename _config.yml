@@ -1,6 +1,8 @@
-# Site
+# Site settings
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+baseurl: "" # Ensure this is empty if deploying to the root of a custom domain
+url: "https://iamswift.me" # Your GitHub Pages URL
 
 # Content configuration version
 version: 2
