@@ -10,21 +10,22 @@ version: 2
 # Personal info
 name: Aaron Swift
 title: Product and Operations Expert
-email: swiftaaronm@gmail.com  
+email: swiftaaronm (at) gmail.com  
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+# darkmode: true
 
 # Social links
 # twitter_username: facespics
+linkedin_username: iamswift
 github_username:  iamswift
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: iamswift
+
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -49,7 +50,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aaron Swift
+  Hi, my name's Aaron Swift. I am based in Washington D.C. I have a rescue pup named Keppe Underfoot who will sit for cheese.
+
+  I am a mediocre developer, but fantastic at scalable products and operations. I have experience both as an individual contributor and people manager.
 
 content:
 # - title: Projects # Title for the section
@@ -96,7 +99,7 @@ content:
         sub_title: Consultant
         caption: 2010 - September 2014
         quote: >
-          Worked on various projects and led multiple teams to success.
+          Generated strategies for Fortune 500 real estate to become more sustainable by reducing their energy and water footprints.
         description: | # this will include new lines to allow paragraphs
           - Senior Product Manager - managed product lifecycle and strategy
           - Project Manager - coordinated project timelines and deliverables
@@ -117,14 +120,13 @@ content:
           ASU's BA program in interdisciplinary studies where you can combine two concentrations. As far as I know, I am the only person to combine Engineering with Urban Planning - a unique mix of hard and soft sciences.
         
           
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+ # - title: A Little More About Me
+ #   layout: text
+ #   content: | # this will include new lines to allow paragraphs
+ #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+ #     - Rock climbing
+ #     - Gaming
+     
 
 #      Look at this cool image  
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
