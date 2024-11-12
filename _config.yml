@@ -52,7 +52,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aaron Swift. I am based in Washington D.C. I have a rescue pup named Keppe Underfoot who will sit for cheese.
 
-  I am a mediocre developer, but fantastic at scalable products and operations. I have experience both as an individual contributor and people manager.
+  I am a mediocre developer, but fantastic at scalable products and operations. I have experience both as an individual contributor and people manager. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 content:
 # - title: Projects # Title for the section
